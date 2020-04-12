@@ -1,0 +1,19 @@
+﻿  Admin.cpp
+  AuthenticationInformation.cpp
+  Authenticator.cpp
+  Client.cpp
+  AccountLogger.cpp
+  encryptDecrypt.cpp
+c:\users\fadal\onedrive\desktop\ssdcomplete\ssdcoursework17068266\ssdcoursework17068266\encryptdecrypt.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\fadal\onedrive\desktop\ssdcomplete\ssdcoursework17068266\ssdcoursework17068266\encryptdecrypt.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  Interface.cpp
+  logger.cpp
+  LoggerDecorator.cpp
+c:\users\fadal\onedrive\desktop\ssdcomplete\ssdcoursework17068266\ssdcoursework17068266\loggerdecorator.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  ProofOfID.cpp
+  SSDCourseWork17068266.cpp
+  WeatherLogger.cpp
+  User.cpp
+  weatherData.cpp
+  Generating Code...
+  SSDCourseWork17068266.vcxproj -> C:\Users\fadal\OneDrive\Desktop\ssdcomplete\SSDCourseWork17068266\Debug\SSDCourseWork17068266.exe
